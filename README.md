@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate learner and builder with a strong background in robotics, software development, and team collaboration.
+I'm a passionate 14 y.o learner and builder with a strong background in robotics, software development, and team collaboration.
 🤖 I’ve spent 3 years in FIRST LEGO League (FLL), where I explored mechanical design, autonomous programming, and creative problem-solving.
 🛠 I'm currently in my first year of FIRST Tech Challenge (FTC), diving deep into advanced robotics, Java-based control systems, and autonomous path planning.
 💻 Beyond robotics, I’m developing skills in web development, working with both front-end (React, TypeScript) and back-end (Node.js, PostgreSQL) technologies to build full-stack applications.
