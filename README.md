@@ -14,6 +14,7 @@ I'm a passionate learner and builder with a strong background in robotics, softw
 ## Robotics & engineering
 
 - 🧱 3 years of experience in **FIRST LEGO League (FLL) & WRO**
+- 2 years of mentoring FLL teams
 - 🤖 1st year competitor in **FIRST Tech Challenge (FTC)**
 - 💻 Programming: Python, Java (FTC), C++, spike
 - 🤖 Platforms: LEGO EV3, SPIKE Prime, REV Robotics Control Hub
