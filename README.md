@@ -1,15 +1,19 @@
 # 👋 Hi, I'm Daniyar
 
-🎓 Computer Science | 💻 Web Developer | ⚙️ Backend | Design
+🎓 Computer Science | 💻 Web Developer | ⚙️ Backend | 🎨 Design
 
 ## 🚀 About Me
 
-I'm a passionate 14 y.o learner and builder with a strong background in robotics, software development, and team collaboration.
-🤖 I’ve spent 3 years in FIRST LEGO League (FLL), where I explored mechanical design, autonomous programming, and creative problem-solving.
-🛠 I'm currently in my first year of FIRST Tech Challenge (FTC), diving deep into advanced robotics, Java-based control systems, and autonomous path planning.
-💻 Beyond robotics, I’m developing skills in web development, working with both front-end (React, TypeScript) and back-end (Node.js, PostgreSQL) technologies to build full-stack applications.
-🤝 I thrive in team environments, whether it’s pairing up for debugging autonomous code or collaborating on multi-member software projects. I believe in clear communication, shared learning, and building solutions together.
-⚡ I’m always curious, always building — and excited for every new challenge that pushes my limits.
+I have been programming since I was ten. Since childhood, I loved to disassemble various electronics. Then, in the 5th grade, I
+joined the robotics club at school, where I get basic knowledge and experience in robotics. 
+In the winter of 2022, I took part in the FIRST competition for the first time, where 
+I got my first experience working in a team. I have a positive attitude towards teamwork, I am open and honest with my teammates. I strive for new knowledge and develop with each new experience.
+
+In addition to robotics and programming, I am about mountaineering.
+I like to overcome fear and strive for the heights and grandeur of the mountains. In mountains come true human essense, and only you can do - trust your teammate
+
+## Coding
+
 
 ## Robotics & engineering
 
@@ -22,13 +26,13 @@ I'm a passionate 14 y.o learner and builder with a strong background in robotics
 ## 🛠️ Languages and Tools
 
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
-![React](https://img.shields.io/badge/-React-000?&logo=react) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](#)
+[![React](https://img.shields.io/badge/-React-000?&logo=react)](#)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#) 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
+[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql) 
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
