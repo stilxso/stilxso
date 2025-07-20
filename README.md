@@ -60,5 +60,5 @@ I like to overcome fear and strive for the heights and grandeur of the mountains
 - Participate in competitive programming
 
 ## 📫 Connect with Me
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](t.me/stilxso)
 
