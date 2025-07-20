@@ -60,5 +60,6 @@ I like to overcome fear and strive for the heights and grandeur of the mountains
 - Participate in competitive programming
 
 ## 📫 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](t.me/stilxso)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daniyar-kurmangali-77a747375/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/stilxso)
 
