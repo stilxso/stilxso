@@ -21,7 +21,7 @@ I like to overcome fear and strive for the heights and grandeur of the mountains
 - 2 years of mentoring FLL teams
 - 🤖 1st year competitor in **FIRST Tech Challenge (FTC)**
 - 💻 Programming: Python, Java (FTC), C++, spike
-- 🤖 Platforms: LEGO EV3, SPIKE Prime, REV Robotics Control Hub
+- 🤖 Platforms: LEGO EV3, SPIKE Prime, android studio
 
 ## 🛠️ Languages and Tools
 
