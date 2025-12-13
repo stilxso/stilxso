@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniyar
 
-🎓 Computer Science | 💻 Web Developer | ⚙️ Backend | 🎨 Design
+ML engineer & Front-end dev
 
 ## 🚀 About Me
 
@@ -34,11 +34,7 @@ I like to overcome fear and strive for the heights and grandeur of the mountains
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
-
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ## 🏆 Highlights
@@ -55,9 +51,6 @@ I like to overcome fear and strive for the heights and grandeur of the mountains
 
 ## Loking ahead
 - Try to win world stage FTC
-- Master Frontend development
-- Master Backend & databases
-- Participate in competitive programming
 
 ## 📫 Connect with Me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daniyar-kurmangali-77a747375/)
